@@ -1,3 +1,7 @@
+# Nama: Hanzel Oclihar Tjiam
+# NIM: 221402064
+
+# Soal 1
 import os
 
 path = os.path.dirname(os.path.abspath(__file__))
